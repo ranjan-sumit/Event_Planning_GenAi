@@ -3,3 +3,4 @@ langchain
 openai
 wordcloud
 matplotlib
+langchain_community
